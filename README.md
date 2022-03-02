@@ -1,5 +1,4 @@
 <h1> Hi, I'm Dani! <img src="https://i.pinimg.com/originals/a3/d6/97/a3d69709008b07c99616d5c78df28bd7.gif" width="100"></h1>
-<img align = 'right' src = "https://c.tenor.com/s14Fk-rpSsQAAAAM/hola-sombra.gif" width = "230">
 
 <p><br><em>Soy Front-End Developer y musica autodidacta.  </a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 <br/> Siempre en busqueda de nuevos aprendizajes que me desafien cada dia</em></p>
