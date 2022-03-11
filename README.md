@@ -23,6 +23,6 @@
     <a href="#"><img alt="Gitlab" src="https://img.shields.io/badge/Jira-327FC7?style=flat-square&logo=Jira&logoColor=white"><a/>
 </p>
  
- ##  Quieres saber mas de mi  <img src="https://pa1.narvii.com/6709/f4f2bafa7db9d0379a13b3096f3bfe41df6f2c6e_hq.gif" width="50">
+ ##  Quieres saber mas de mi  <img src="https://pa1.narvii.com/6709/f4f2bafa7db9d0379a13b3096f3bfe41df6f2c6e_hq.gif" width="70">
  <p> Presten atencion a mis futuros trabajos :seedling: </p>
  
